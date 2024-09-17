@@ -18,8 +18,8 @@
 				<a href="/signin-signup-slide">Auth Page</a>
 			</li>
 			<li>
-                <span class="tooltip">Some text</span>
-				<a href="https://example.com/animation2">Animation2</a>
+                <span class="tooltip">Authentication Page Animation where an image slides covering the inactive tab</span>
+				<a href="/signin-signup-slide-2">Auth Page 2</a>
 			</li>
 			<li>
                 <span class="tooltip">Some text</span>
